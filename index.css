@@ -1,0 +1,48 @@
+.navber{
+   margin: 10px;
+    background-color: whitesmoke;
+    height: 10vh;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.menu-ber{
+    flex-wrap: wrap;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+.iim{
+    height: 50px;
+    width: 50px;
+}
+.iimg{
+    height: 75%;
+    width:100% ;
+}
+.iimgp{
+    height:300px;
+    width:300px;
+}
+
+.box{
+  padding: 10px 10px;
+}
+#product{
+    height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.divv{
+    margin-top: 300px;
+    height: 50vh;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.txt{
+    font-size: 20px;
+}
